@@ -1,0 +1,7 @@
+gradio==5.44.1
+openai==1.102.0
+pandas==2.3.2
+matplotlib==3.10.6
+seaborn==0.13.2
+numpy==2.3.2
+python-dotenv==1.1.1
